@@ -1,4 +1,4 @@
-# 🚗 SOME CARS BY US — Ferrari F12 Berlinetta
+# 🚗 SOME CARS BY US
 
 Este projeto é uma página web simples e responsiva, desenvolvida com HTML e CSS, dedicada ao supercarro **Ferrari F12 Berlinetta**. A página faz parte de um site maior que apresenta informações sobre diversos modelos de carros esportivos.
 
